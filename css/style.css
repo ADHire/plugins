@@ -1,0 +1,29 @@
+.container {
+	height: 150px;
+	background-color: rgba(32, 32, 32, 0.90);
+	font-family: Tahoma;
+	width: 30%;
+	margin: 0 auto;
+	text-align: center;
+	border-radius: 5px 20px 5px;
+
+}
+
+h1 {
+	color: #9E881B;
+}
+
+p {
+	color: #9E881B;
+	margin-top: 40px;
+}
+
+.button {
+	text-decoration: none;
+	font-size: 1.4em;
+	color: #9E881B;
+	border: 2px solid #9E881B;
+	border-radius: 10px/30px;
+	padding: 10px;
+
+}
